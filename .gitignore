@@ -1,0 +1,22 @@
+# Local input data (check permission before sharing)
+/input.xlsx
+/edges.xlsx
+/data/*.xlsx
+/data/*.csv
+
+# Generated workbooks, maps, and figures
+/output*.xlsx
+/*_map.html
+/CPP.png
+/TSP*.png
+/VRP*.png
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
